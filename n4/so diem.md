@@ -1,3 +1,5 @@
+# Số đếm
+
 ## Cách đọ số điếm
 * 1: ichi
 * 2: ni
@@ -50,3 +52,6 @@ Tương tự đếm với các hàng 30, 40
 * (ichi, ni, san, yon, go, roku, nana, hachi, kyuu) + man
 * 39674: sanman-kyuusen-rokubyaku-nanajuu yon
 * 891994: hachijuu kyuu man - ichi sen - kyuubyaku - kyuujuu yon
+
+# Tham khảo
+* https://laodongnhatban.com.vn/huong-dan-chi-tiet-cach-doc-so-tien-hoi-gia-mac-ca-trong-tieng-nhat-667.htm
