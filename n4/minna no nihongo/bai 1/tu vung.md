@@ -2,8 +2,8 @@
 
 ### Lời bài hát
 
-**Watashi　（わたし）** là tôi, anata là bạn.　</br>
-**Watashitachi （わたしたち）** bọn tôi, minnasan（みんなさん） là các bạn. </br>
+**Watashi　（わたし）** là tôi, **anata (あなた)** là bạn.　</br>
+**Watashitachi （わたしたち）** bọn tôi, **minnasan（みんなさん）** là các bạn. </br>
 **Anohito　（あのひと）** người kia, **anokata（あのかた）** vị đó.</br>
 **San,chan,kun** là hậu tố theo sau tên một người.</br>
 Người nước nào thì là **~jin（じん）**, còn **sensei（せんせい）** là thầy giáo.</br>
