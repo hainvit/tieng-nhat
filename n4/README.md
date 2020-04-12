@@ -12,5 +12,8 @@
 * Đáp án Nghe hiểu: https://drive.google.com/open?id=0BzsESMfM13JVSjl6WThjZDJ6dWc
 * Sách Kanji: https://drive.google.com/open?id=1kYw0800a6Tt8ic9OUGdxztIprOZwP_7h
 
+## Tổng hợp ngữ pháp N5
+* https://akira.edu.vn/hoc-tieng-nhat-online/tong-hop-ngu-phap-tieng-nhat-n5/
+
 # Tham khảo
 * https://dungmori.com/khoa-hoc/khoa-n5/696-tai-lieu-bai-hoc
