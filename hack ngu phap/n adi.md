@@ -280,3 +280,256 @@ Hoặc ...いいえ、そうではありません。/Không, không phải thế
   * Trợ từ と dùng để nối 2 danh từ
 * Ví dụ
   * ぎんこうの休 や すみは 土曜日と日曜日です。/Ngân hàng nghỉ thứ 7 và chủ nhật
+
+### 18. N は ~月(がつ) ~日(にち)です。
+* Ý nghĩa
+  * N là ngày ~ tháng ~
+* Ví dụ
+  * きょうは 七月八日(しちがつようか)です。/Hôm nay là ngày mùng 8 tháng 7
+  * あしたは 12日(にち)です。/Mai là ngày 12
+* Cách hỏi: ngày, tháng, thời điểm
+  * N は いつですか。/N là khi nào ?
+  * N は 何月(なんがつ)ですか。/N là tháng mấy ?
+  * N は 何日(なんにち)ですか。/N là mùng mấy ?
+* Ví dụ
+```
+たんじょうびは いつですか。/Sinh nhật bạn là bao giờ ?
+... 7月(がつ)7日(か)です。/Mùng 7 tháng 7
+```
+* Chú ý
+  * Cách nói ngày/tháng/năm của Nhật ngược so với tiếng việt, phải nói NĂM, sau đó đến THÁNG, cuối cùng là NGÀY
+  * いつ có thể dùng thay thế cho các từ để hỏi có nghĩa tương tự nhau như: なんじ、なんがつ、なんにち
+
+### 19. N (Danh từ chỉ địa điểm) + へ + いきます/きます/かえります
+* Cách nói hành động di chuyển, đi dâu, đến đâu, về đâu
+* Ý nghĩa
+  * Đi/đến/về đâu đó(địa điểm N)
+* Cách dùng
+  * N là danh từ chỉ nơi chốn, địa điểm. “へ”(đọc là e) là trợ từ chỉ phương hướng di chuyển. Đi sau cùng là động từ mang ý nghĩa di chuyển từ nơi này sang nơi khác.
+* Ví dụ
+  * わたしは だいがくへ いきます。/Tôi đi đến trường
+  * マイさんは ここへ きます。/Bạn Mai đến đây
+  * わたしは うちへ かえります。/Tôi trở về nhà
+* Câu hỏi ???(Cách hỏi đi đâu, đến đâu, về đâu)
+  * ~は どこへ ~(Động từ) か。
+* Ví dụ
+```
+きょうのごご どこへ いきますか。/Chiều hôm nay bạn sẽ đi đâu?
+... スーパーへ いきます。/Tôi sẽ đi đến siêu thị
+
+おととい どこへ いきましたか。/Hôm kia bạn đã đi đâu ?
+... ぎんこうへ いきました。/Tôi đã đi đến ngân hàng
+```
+* Câu phủ định hoàn toàn(Cách thể hiện ý không đi đâu, đến đâu cả)
+どこ(へ)も いきません。/Không đi đâu cả/Chỗ nào cũng không đi
+* Trợ từ も + thể phủ định của động từ: dùng để phủ định tất cả những gì trong phạm vi mà từ để hỏi どこ đưa ra. Có thể dùng も hoặc để cả へも đều được, nhưng dùng へも mang tính phủ định mạnh mẽ hơn
+* Ví dụ
+```
+きょうのごご どこへ いきますか。/Chiều hôm nay bạn sẽ đi đến đâu ?
+... どこも いきません。/Tôi sẽ không đi bất kỳ đâu cả
+
+きのう どこへ いきましたか。/Hôm qua, bạn có đi đâu không ?
+... どこへも いきませんでした。/Tôi đã không đi bất kỳ đâu cả
+```
+
+### 20. ~で + いきます/きます/かえります
+* Cách nói cách thức di chuyển, đi lại bằng phương tiện gì
+* Ý nghĩa
+  * Đi/đến/về bằng N (phương tiện)
+* Trong đó
+  * N là danh từ chỉ phương tiện giao thông, phương tiện đi lại
+  * で là trợ từ, mang ý nghĩa xác định cách thức, phương tiện, có thể dịch tiếng việt là “bằng~”, “bởi~”
+* Ví dụ
+  * わたしは じどうしゃで びょういんへ いきます。/Tôi đi đến bệnh viện bằng oto
+  * ラオさんは バスで わたしのうちへ きます。 /Bạn Rao đến nhà tôi bằng xe bus
+  * まいこさんは ひこうきで くにへ かえります。/Bạn Maika về nước bằng máy bay
+* Chú ý
+  * Trong trường hợp muốn nói là "đi bộ" thì sử dụng あるいて và không dùng で.
+  * まいにち あるいて がっこうへ いきます。/Hàng ngày tôi đi bộ đến trường
+* Câu hỏi
+  * Cách hỏi đi đâu, đến đâu, về đâu bằng cách nào, bằng phương tiện tiện gì
+  * 〔~へ〕 なんで ~ (động từ) か。/Đi đến đâu bằng phương tiện gì ?
+* Ví dụ
+```
+なんで ここへ きましたか。Bạn(đã đến đây bằng gì vậy) ?
+... あるいて きました。/Tôi đã đi bộ đến đây
+```
+
+### 21. N (Danh từ chỉ người) と V ます
+* Cách nói làm hành động gì cùng với ai
+* Ý nghĩa
+  * Làm gì cùng với N
+  * Trong đó: N là danh từ chỉ người, と là trợ từ có ý nghĩa xác định đối tượng cùng tham gia hành động, có thể dịch tiếng Việt là "cùng, với, cùng với"
+* Ví dụ
+  * ともだちと 大学(だいがく)へ きます。/Tôi đến trường cùng với bạn
+  * 母(は は)と デパートへ 行(い)きます。/Tôi đi đến bách hóa cùng với mẹ
+* Trường hợp muốn nói làm gì đó "một mình" thì dùng ひとりで và không có と
+* Ví dụ
+  * ひとりで くにへ かえりました。/Tôi đã về nước một mình
+* Câu hỏi ???
+  * Cách hỏi làm gì với ai
+  * だれと ~ (động từ) か。/Làm gì với ai ?
+* Ví dụ
+```
+だれと ぎんこうへ いきましたか。/Bạn đã đi đến ngân hàng cùng với ai
+... ジョンさんと いきました。/Tôi đã đi với John
+```
+
+### 22. N を V ます
+* Cách sử dụng động từ với trợ từ を
+* Trong đó
+  * N là danh từ (đối tượng của hành động)
+  * V là tha động từ (ngoại động từ)
+  * を là trợ từ(chỉ đối tượng tác động của hành động)
+* Ví dụ
+  * ごはんを たべます。/Tôi ăn căm
+  * 本(ほ ん)を よみました。/Tôi đã đọc sách
+* Cách đặt câu hỏi: ai đó đã/sẽ làm cái gì ?
+  * なにを V ますか。/Làm cái gì(ăn cái gì/uống gì, đọc gì,...) ?
+  * Câu hỏi chung cho tất cả các động từ là: なにを しますか。/Bạn làm cái gì ?
+* Ví dụ
+```
+けさ 何(なに)を買かいましたか。/Sáng nay bạn đã mua gì thế ?
+... やさいを買(かい)ました。/Tôi đã mua rau
+
+としょかんで 何(なに)を しますか。/Bạn làm gì ở thư viện ?
+... ほんを よみます。/Tôi đọc sách
+```
+* Chú ý
+  * も được dùng thay cho を khi cùng chung một hành động với 2 đối tượng khác nhau(cùng V nhưng khác N)
+  * 私は ビールを のみます。おさけも のみます。/Tôi uống bia, uống cả rượu nữa
+  * と được dùng để nối 2 danh từ cùng làm đối tượng của câu trong câu.
+  * 私は さかなと たまごを たべます。/Tôi ăn cá và trứng
+
+### 23. なにも V ません
+* Cách nói phủ định hoàn toàn
+* Ý nghĩa
+  * Không làm gì cả
+* Cách dùng
+  * Khi trợ từ も đi sau từ để hỏi và đi cùng với thể phủ định thì có nghĩa phủ định hoàn toàn mọi đối tượng trong phạm vi từ để hỏi
+* Ví dụ
+  * けさ 何(なに)も たべませんでした。/Sáng nay tôi đã không ăn gì cả
+  * あした 何(なに)も しません。/Ngày mai tôi sẽ không làm gì cả
+
+### 24. N1 で N2 を V ます
+* Cách nói 1 hành động xảy ra tại địa điểm nào đó
+* Ý nghĩa
+  * N1: Danh từ chỉ địa điểm diễn ra hành động
+  * N2: Danh từ chỉ đối tượng tác động của hành động(Tân ngữ trực tiếp)
+  * で: Trợ từ chỉ địa điểm diễn ra hành động
+* Ví dụ
+  * レストランで ごはんを たべす。/Tôi ăn cơm ở nhà hàng
+  * としょかんで 本を よみました。/Tôi đọc sách ở thư viện
+* Cách đặt câu hỏi/ai đó đã làm gì/sẽ làm gì ở đâu ?
+  * どこで V ますか。
+* Ví dụ
+```
+どこで このしゃしんを とりましたか。/Bạn đã chụp bức ảnh này ở đâu vậy ?
+... こうえんで とりました。/Tôi đã chụp ở công viên
+```
+
+###  25. いっしょに V ませんか
+* Cách nói khi muốn mời, rủ ai cùng làm gì
+* Ý nghĩa
+  * Cùng làm ~ nhé ?
+* Cách dùng
+  * Đây không phải câu phủ định, mà là câu mang ý mời mọc, rủ rê người khác cùng làm việc với mình
+* Ví dụ
+```
+いっしょに ビールを のみませんか。/Cùng uống bia nhé !
+... ええ、いいですね。/Vầng, tốt quá !
+... すみません。ちょっと.../Xin lỗi, nhưng mà ...(cách từ chối khéo)
+```
+* Chú ý
+  * Khi muốn từ chối lời đề nghị thì dùng ...すみません。ちょっと... “ちょっと” đi cùng với giọng điệu ngập ngừng hàm ý có việc gì đó
+
+### 26. V ましょう
+* Ý nghĩa
+  * Cùng làm ~ nhé
+* Các dùng
+  * Cũng là một lời đề nghị cùng làm với mình nhưng trên cơ sở biết người kia sẽ đồng ý => mang tính chất thỏa thuận, hô hào mọi người cùng làm(một điều đã giao hen, thỏa thuận từ trước)
+* Chú ý
+  * Khác với V ませんか: dùng khi chưa biết người kia có đồng ý hay không
+* Ví dụ
+```
+ロビーで 休(や す)みましょう。/Chúng ta hãy nghỉ ở hành lang nhé ?
+はじめましょう。/Nào, chúng ta bắt đầu nào !
+```
+
+### 27. N で V ます
+* Cách thể hiện làm gì đó bằng phương thức, công cụ gì
+* Trong đó
+  * N là danh từ chỉ phương tiện, công cụ
+  * で trợ từ chỉ phương tiên, phương thức, phương pháp thực hiện hành động
+* Ý nghĩa
+  * Làm ~ bằng N
+* Ví dụ
+  * はしで ごはんを たべます。/Tôi ăn căm bằng đũa
+  * コンピューターで レポートを かきます。/Tôi viết báo cáo bằng máy tính
+* Câu hỏi ??? (cách hỏi làm gì bằng phương tiện, công cụ, hình thức gì)
+  * なんで V ますか。/Làm ~ bằng gì ?
+* Ví dụ
+```
+なんで りんごを きりますか。/Bạn cắt táo bằng gì thế ?
+... ナイフで きります。/Tôi cắt bằng dao
+```
+* Chú ý
+  * Ngoài ra, trợ từ で cũng chỉ cả phương tiện của ngôn ngữ
+* Ví dụ
+  * 日本語(にほんご)で でんわを かけます。/Tôi nói chuyện bằng điện thoại
+
+### 28. (Từ/Câu) は ~語(ご)で 何(なん)ですか 
+* Cách thể hiện, hỏi 1 từ, 1 cụm từ nào đó nói như thế nào trong tiếng nước khác
+* Ý nghĩa
+  * Từ/câu trong tiếng~ là gì ?
+* Cách dùng
+  * Dùng để hỏi về cách nói một từ hoặc câu bằng 1 thứ tiếng nào đó. Khi viết, từ/câu được hỏi thường để trong dấu 「 」(dấu ngoặc kép trong tiếng Nhật)
+* Ví dụ
+```
+(1)「ありがとう」は 英語(えいご)で 何(な ん)ですか。/“ありがとう” trong tiếng Anh là gì thế ?
+...「Thank you」です。/Là "Thank you"
+```
+
+### 29. N1(người, công ty, quốc gia) に N2 を あげます/かします/かきますおしえます...
+* あげます: Cho, tặng, biếu
+* かします: Cho vay, cho mượn
+* かきます: Viết
+* おしえます: Dậy, chỉ bảo
+* Cách nói làm gì cho ai, hướng tới đối tượng nào
+* Ý nghĩa
+  * Làm ~ cho N1
+* Cách dùng
+  * に trợ từ chỉ hướng đến của hành động ->"cho ai"
+* Ví dụ
+```
+ともだちに てがみを かきます。/Tôi sẽ viết thư cho bạn bè
+母(は は)に プレゼントをあげます/Tôi sẽ tặng quà cho mẹ
+```
+* Cách đặt câu hỏi làm gì cho ai, hướng đến đối tượng nào
+  * だれに V ますか。/Làm ~ cho ai ?
+* Ví dụ
+```
+だれに 日本語(にほんご)を おしえますか。/Bạn dạy tiếng nhật cho ai ?
+... タンさんに おしえます。/Dạy cho bạn Tân
+```
+* Chú ý
+  * Với động từ あげます,N1 không dùng được với わたし
+
+### 30. N1(người) に N2 を もらいます/かります/ならいます
+* もらいます: Nhận được
+* かります: Vay, mượn
+* ならいます: Học
+* Ý nghĩa
+  * (Nhận được) ~ từ N1
+* Cách dùng
+  * N1 chỉ xuất xứ của thứ hoặc vật mà chủ hành động nhận được/vay mượn/học được; N2 chỉ thứ hoặc vật mà chủ hành động nhận được/vay mượn được/học được.
+* Ví dụ
+```
+木村(きむら)さんは山田(やまだ)さんに花(はな)をもらいました。/Chị Kimura đã nhận được hoa từ Yamada
+```
+* Chú ý
+  * Khi N1 không phải là người mà là một cơ quan tổ chức nào đó, sẽ dùng trợ từ から thay cho に.
+* Ví dụ
+```
+銀行(ぎんこう)から お金(かね)を借(かり)ます。/Tôi sẽ vay tiền  từ ngân hàng
+```
