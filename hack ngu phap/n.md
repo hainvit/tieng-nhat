@@ -533,3 +533,145 @@ Hoặc ...いいえ、そうではありません。/Không, không phải thế
 ```
 銀行(ぎんこう)から お金(かね)を借(かり)ます。/Tôi sẽ vay tiền  từ ngân hàng
 ```
+
+### 31. N はどれですか
+* Ý nghĩa
+  * N là cái nào ?
+* Cách dùng
+  * どれ: là từ để hỏi có nghĩa là "cái nào"
+  * Dùng để yêu cầu người nghe chọn 1 trong số những cái đưa ra (từ 2 thứ trở lên)
+* Ví dụ
+```
+山田さんのとけいは どれですか。/Đồng hồ của Yamada là cái nào ?
+... あおい とけいです。/Đồng hồ màu xanh
+... あおい のです。/Là cái màu xanh
+```
+
+### 32. N が あります/わかります.N が好(すき)です/嫌(きらい)です/上 手(じょうず)です/下手(へ た)です
+* Cách dùng
+  * Trong bài trước đã học trợ từ đi với động từ là を hoặc へ.Nhưng trong bài này trợ từ của các động từ あります/わかります là が
+  * Một số tính từ như: すき、きらい、じょうず、へた... cũng đi với trợ từ が
+*  Ví dụ
+  * わたしは イタリア料理(りょうり)が 好(すき)です。/Tôi thích món ăn Ý
+* Chú ý
+  * Động từ あります chỉ sự sở hữu chỉ dùng với đồ vật, không dùng cho người và động vật
+
+### 33. どんな N
+* Cách dùng
+  * Ngoài cách sử dụng để hỏi về tính chất của vật thì còn được sử dụng để yêu cầu người nghe lựa chọn 1 thứ trong nhóm mà danh từ sau どんな đưa ra
+* Ví dụ
+```
+どんな 食物(たべもの) が 好(すき)ですか。/Bạn thích đồ ăn như thế nào?
+... 魚(さかな)が 好(すき)です。/Tôi thích cá
+```
+
+### 34. よく/だいたい/たくさん/少(すこ)し/あまり/全然(ぜんぜん)
+* Cách dùng
+  * Đây là các phó từ đặt trước động từ/tính từ để chỉ mức độ của chúng
+  * Các phó từ あまり、ぜんぜん thường sử dụng với thể phủ định
+* Ví dụ
+  * にほんご が よくわかります。/Tôi rất giỏi tiếng nhật
+  * えいご が だいたい わかります。/Tôi biết Tiếng Anh cũng đại khái
+  * フランス語(ご) が あまり わかりません。/Tôi không biết tiếng Pháp nhiều lắm
+  * 金(おかね) が たくさん あります。/Tôi có nhiều tiền
+  * きょうは すこし 寒 (さむい)です。/Hôm nay hơi lạnh
+
+### 35. S1 から、S2
+* Cách nói lý do
+* Cách dùng
+  * から để nối 2 câu có mối quan hệ nhân quả
+  * から được đặt sau câu chỉ nguyên nhân
+* Ví dụ
+  * じかん が ありませんから、テレビを 見(み)ません。/Vì không có thời gian nên tôi không xem tivi
+
+### 36. どうして+Sentence か。
+* Câu hỏi lý do, nguyên nhân
+* Cách dùng
+  * どうして là từ để hỏi lý do
+  * Câu trả lời sẽ thêm から vào cuối câu
+* Ví dụ
+```
+どうして しゅくだいをしませんか。/Tại sao bạn không làm bài tập ?
+...じかん が ありませんから。/Vì không có thời gian
+```
+* Chú ý
+  * Câu hỏi どうしてですか。Là câu hỏi lý do chung nghĩa là "Tai sao lại thế ?"
+* Ví dụ
+```
+あしたは 会社かいしゃを 休(やすみ)ます。/Ngày mai tôi sẽ nghỉ làm
+...どうしてですか。/Tại sao thế ?
+ようじが ありますから。/Vì tôi có việc
+```
+
+### 37. N が あります/います
+* Ý nghĩa
+  * Có N
+* Cách dùng
+  * Hai động từ あります/います để chỉ sự sở hữu
+  * あります sử dụng khi N là đồ vật
+  * います sử dụng khi N là người và động vật
+* Ví dụ
+  * コンピューターが あります。/Tôi có máy tính
+  * あに が います。/Tôi có anh trai
+
+### 32. N1(địa điểm)に N2 が あります/います
+* Cách thể hiện sự tự tồn tại người và đồ vật, nhấn mạnh vào vị trí
+* Ý nghĩa
+  * Có N2 ở N1/ Ở N1 có N2
+* Cách dùng
+  * Đây là câu miêu tả một sự thật(như quanh cảnh, vị trí,...)
+  * N1 là địa điểm tồn tại của N2 và được xác định bằng trợ từ に
+  * Nếu N2 là đồ vật dùng あります, còn nếu N2 là động vật/vật di chuyển thì dùng います
+* Ví dụ
+  * わたしの部屋(へ や) に 電話(でんわ) が あります。/Trong phòng tôi có cái điện thoại
+  * にわにさくらの木があります。/Ngoài sân có cây hoa anh đào
+* Cách đặt câu hỏi cho sự tồn tại của người, đồ vật
+  * N に なにが ありますか。/Ở N (nơi chốn) có cái gì ?
+  * N に なにが いますか。/Ở N (nơi chốn) có con gì ?
+  * N に だれが いますか。/Ở N(nơi chốn) có ai ?
+* Ví dụ
+```
+かばんに 何(なに) が ありますか。/Trong cặp có cái gì thế?
+ほんや ペンが あります。/Có sách và bút
+
+にわに 何(なに)が いますか。/Ngoài sân có con gì thế ?
+犬(いぬ)が います。/...Có con chó
+
+きょうしつ に だれが いますか。/Trong phòng học có ai thế ?
+...すずきせんせいが います。/Có cô Suzuki
+```
+
+### 33. N1 は N2 (địa điểm) に あります/います
+* Cách dùng thể hiện sự tồn tại người và đồ vật, nhấn mạnh vào chủ thể 
+* Ý nghĩa
+  * N1 ở N2
+* Cách dùng
+  * Đây là câu chỉ về nơi tồn tại của người hay vật
+  * N1 đưa lên làm chủ đề của cả câu
+* Ví dụ
+  * ランさんの電話(でんわ) は うけつけにあります。/Điện thoại của Lan ở quầy tiếp tân
+  * パソコン は じむしょ に あります。/Máy Laptop ở văn phòng
+* Chú ý
+  * です có thi thoảng được sử dụng thay thế cho động từ chị vị trí あります
+
+### 35. N1 (vật, người, địa điểm) の N2 (danh từ chỉ vị trí)
+* Cách thể hiện tương quan vị trí
+* Ví dụ
+  * つくえの 上(うえ)/Trên bàn
+  * としょかんの前(まえ)/Trước thư viện
+  * ビルのとなり/Bên cạnh toà nhà
+* Cách dùng: Cả cụm “N1 の N2” được sử dụng như một danh từ chỉ địa điểm
+* Ví dụ
+  * つくえの上(うえ) に 本(ほん) が あります。/Ở trên bàn có quyển sách
+
+### 36. N1 や N2
+* Ý nghĩa
+  * N1 và N2
+* Cách dùng
+  * や dùng để nối các danh từ
+  * Khác với と dùng để liệt kê toàn bộ, や chỉ liệt kê mang tính chất tượng trưng
+* Ví dụ
+  * きょうしつの中(なか) に つくえや いすが あります。/Trong phòng học có bàn, ghế,...
+* Đôi khi など được đặt sau danh từ cuối cùng để nhấn mạnh thêm là vẫn còn những vật khác nữa.
+* Ví dụ
+  * きょうしつの中(なか) に つくえや いすなどが あります。/Trong phòng học có bàn, ghế,...
