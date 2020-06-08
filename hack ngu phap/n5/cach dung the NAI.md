@@ -1,7 +1,7 @@
 ## Cách dùng thể NAI
 * Bằng với Vません
 
-### Cách chi thể NAI
+### Cách chia thể NAI
 
 #### Nhóm I
 * Bỏ　ます
